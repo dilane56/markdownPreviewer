@@ -1,0 +1,18 @@
+.header{
+    width: 100%;
+    height: 35px;
+    background: grey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    p{
+        margin-left: 10px;
+        font-weight: bold;
+        color: black;
+        font-size: 1.2em;
+    }
+    img{
+        margin-right: 10px;
+    }
+}

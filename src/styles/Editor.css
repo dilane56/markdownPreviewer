@@ -1,0 +1,15 @@
+.editorContainer{
+    background: #000;
+    width: 100%;
+    max-width: 600px;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    max-height: 80%;
+    height: 250px;
+
+    textarea{
+        width: 100%;
+        height: 100%;
+    }
+}
